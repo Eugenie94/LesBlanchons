@@ -12,7 +12,7 @@ Les technologies que j'ai utilisées :
 Url du site : https://lesblanchons.netlify.app/
 
 
------------------------------------- Aperçu de la page web ------------------------------------
+------------------------------------------ Aperçu de la page web ------------------------------------------
 
 ![screencapture-lesblanchons-netlify-app-2021-11-11-00_53_43](https://user-images.githubusercontent.com/58372973/141212161-30cc3000-3f91-46a7-9773-3b83e66196b1.png)
 
